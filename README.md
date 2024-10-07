@@ -1,9 +1,9 @@
 # robocup training resources for [@hwachongrobotics](https://github.com/hwachongrobotics), 2024
 
 ## directory
-/elec/ &rarr; folder for elec resources
-/elec/s1training.pretty.zip &rarr; demo footprint library
-/elec/buck/ &rarr; sample kicad project
+/elec/ &rarr; folder for elec resources <br>
+/elec/s1training.pretty.zip &rarr; demo footprint library <br>
+/elec/buck/ &rarr; sample kicad project <br>
 
 
 ## useful resources
